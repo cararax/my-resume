@@ -10,8 +10,8 @@
 - LinkedIn: https://www.linkedin.com/in/carara/
 
 ## Idiomas
-  - ★★★★★ Português - Fluente
-  - ★★★★☆ Inglês - Intermediário
+  - ★★★★★ Português - Fluente nativo
+  - ★★★★☆ Inglês - intermediário B2, compreende bem, lê e escreve bem, fala razoavel
 
 ## Descrição
 - Desenvolvedor ambicioso, versátil e cooperativo. Possui 1 ano de experiência em equipes ágeis focado no desenvolvimento de APIs REST e com amplo conhecimento em Java e Spring Boot. Apaixonado por aprender e evoluir a partir de desafios.
@@ -45,7 +45,7 @@
 - Spring MVC
 - Spring Boot
 - Spring Data JPA
-- Sring Security
+- Spring Security
 
 **Testes**
 - JUnit
@@ -96,9 +96,9 @@ _abril 2021 – setembro 2021_
 
 - Capacitação em backend por meio de cursos de tecnologia.
 - Desenvolvimento de APIs utilizando Java e Spring Boot com banco de dados SQL e NoSQL.
-- Aprendi arquitetura REST e de microsserviços, containerização com docker e documentação com Swagger.
+- Aprendi arquitetura REST e de microsserviços, conteinerização com docker e documentação com Swagger.
 - Experimentei resolver problemas com criatividade e pensamento crítico.
-- Trabalhei em equipe inserido em uma equipe ágil com Scrum, praticando a comunicação e e boas práticas no desenvolvimento utilizando versionamento com Git e GitFlow
+- Trabalhei em  equipe ágil com Scrum, praticando a comunicação e boas práticas no desenvolvimento utilizando versionamento com Git e GitFlow
 
 **Bolsista no Programa de Aceleração de Talentos, META. Recanto Maestro - RS**<br>
 _novembro 2019 – dezembro 2019_
