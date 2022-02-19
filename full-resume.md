@@ -11,7 +11,7 @@
 
 ## Idiomas
   - ★★★★★ Português - Fluente nativo
-  - ★★★★☆ Inglês - intermediário B2, compreende bem, lê e escreve bem, fala razoável
+  - ★★★★☆ Inglês - Intermediário B2: Compreende bem, lê e escreve bem, fala razoável
 
 ## Descrição
 - Desenvolvedor ambicioso, versátil e cooperativo. Possui 1 ano de experiência em equipes ágeis focado no desenvolvimento de APIs REST e com amplo conhecimento em Java e Spring Boot. Apaixonado por aprender e evoluir a partir de desafios.
@@ -65,11 +65,10 @@ _setembro 2021 – Presente_ <br>
 - Desenvolvimento de novas funcionalidades com Java e Spring Boot.
 - Análise e correção de bugs.
 - Utilização de boas práticas de programação, visando a legibilidade e manutenção do código.
-- Prática de comunicação e trabalho em equipe
-- Contribuição com a evolução técnica de novos colegas da equipe através de mentorias
+- Prática de comunicação e trabalho em equipe.
+- Contribuição com a evolução técnica de novos colegas da equipe através de mentorias.
 
 **Tecnologias utilizadas:**<br>
-_talvez adicionar isso ao texto ao invés de listar só ou adicionar uma seção de skills so_ <br>
 - Java 8
 - Spring Boot
 - Spring MVC
@@ -77,19 +76,9 @@ _talvez adicionar isso ao texto ao invés de listar só ou adicionar uma seção
 - Jooq
 - PostgreSQL
 - Postman
-- Trello
-- Gitlab
 - Swagger
-
-1. Communication
-2. Empathy
-3. Patience
-4. Open-mindedness and adaptability
-5. Critical thinking, creativity, and problem-solving
-6. Accountability, humility, and humbleness
-7. Confidence
-8. Management (people, time and project)
-9. Teamwork and collaboration
+- Gitlab
+- Trello
 
 **Estagiário, Compasso UOL.  Remoto**<br>
 _abril 2021 – setembro 2021_
@@ -104,8 +93,8 @@ _abril 2021 – setembro 2021_
 _novembro 2019 – dezembro 2019_
 
 - Participei de palestras e conversas sobre programação e carreiras na tecnologia.
-- Aprendi sobre as etapas do ciclo de desenvolvimento de software
 - Desenvolvi em equipe uma aplicação Web, utilizando Vue.js e Adonis.js
+- Aprendi sobre as etapas do ciclo de desenvolvimento de software
 - Pratiquei a comunicação, adaptabilidade e gerenciamento de tempo durante o desenvolvimento e resolução de problemas 
 
 
