@@ -11,7 +11,7 @@
 
 ## Idiomas
   - ★★★★★ Português - Fluente nativo
-  - ★★★★☆ Inglês - intermediário B2, compreende bem, lê e escreve bem, fala razoavel
+  - ★★★★☆ Inglês - intermediário B2, compreende bem, lê e escreve bem, fala razoável
 
 ## Descrição
 - Desenvolvedor ambicioso, versátil e cooperativo. Possui 1 ano de experiência em equipes ágeis focado no desenvolvimento de APIs REST e com amplo conhecimento em Java e Spring Boot. Apaixonado por aprender e evoluir a partir de desafios.
@@ -61,12 +61,12 @@
 **Estagiário, Meta. Remoto** <br>
 _setembro 2021 – Presente_ <br>
 
-- Atuação em time ágil no desenvolvimento e sustentação de aplicação comercial usada em centenas de lojas e com milhares de requisições diárias.
+- Atuação em equipe ágil no desenvolvimento e sustentação de aplicação comercial usada em centenas de lojas e com milhares de requisições diárias.
 - Desenvolvimento de novas funcionalidades com Java e Spring Boot.
 - Análise e correção de bugs.
 - Utilização de boas práticas de programação, visando a legibilidade e manutenção do código.
 - Prática de comunicação e trabalho em equipe
-- Contribuição com a evolução técnica de novos colegas da equipe por meio de mentorias
+- Contribuição com a evolução técnica de novos colegas da equipe através de mentorias
 
 **Tecnologias utilizadas:**<br>
 _talvez adicionar isso ao texto ao invés de listar só ou adicionar uma seção de skills so_ <br>
@@ -94,7 +94,7 @@ _talvez adicionar isso ao texto ao invés de listar só ou adicionar uma seção
 **Estagiário, Compasso UOL.  Remoto**<br>
 _abril 2021 – setembro 2021_
 
-- Capacitação em backend por meio de cursos de tecnologia.
+- Capacitação em backend através de cursos de tecnologia.
 - Desenvolvimento de APIs utilizando Java e Spring Boot com banco de dados SQL e NoSQL.
 - Aprendi arquitetura REST e de microsserviços, conteinerização com docker e documentação com Swagger.
 - Experimentei resolver problemas com criatividade e pensamento crítico.
