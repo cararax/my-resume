@@ -1,5 +1,4 @@
 #Pedro Carara
-##Currículo
 ### Descrição
 **Desenvolvedor ambicioso, versátil e cooperativo. Possui 1 ano de experiência em equipes ágeis focado no desenvolvimento de APIs REST, com amplo conhecimento em Java e Spring Boot. Apaixonado por aprender e evoluir a partir de desafios.**
 ### Cargo desejado
